@@ -1,0 +1,13 @@
+body{
+  background-color: #57bc90;
+  font-family: fantasy;
+}
+
+.container{
+  font-size: 12px;
+  font-weight: bold;
+}
+
+.col-md-3{
+  background-color: #dcd0c0;
+}
