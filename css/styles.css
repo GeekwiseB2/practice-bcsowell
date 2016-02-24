@@ -1,4 +1,5 @@
 body{
+  width: 1200px;
   background-color: #57bc90;
   font-family: fantasy;
 }
@@ -8,6 +9,11 @@ body{
   font-weight: bold;
 }
 
-.col-md-3{
+.col-md-12{
+  background-color: #99d3df;
+}
+
+.col-md-9{
   background-color: #dcd0c0;
+  text-align: left;
 }
