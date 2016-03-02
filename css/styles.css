@@ -1,13 +1,43 @@
-body{
-  background-color: #57bc90;
-  font-family: fantasy;
+.container-fluid{
+  background-color: yellow;
+  padding: 20px;
 }
 
-.container{
-  font-size: 12px;
-  font-weight: bold;
+.header{
+  background-color: blue;
+  padding: 20px;
+  height: 200px;
+  border: 2px solid black;
 }
 
-.col-md-3{
-  background-color: #dcd0c0;
+.nav{
+  background-color: green;
+  padding: 20px;
+  height: 100px;
+  border: 2px solid black;
+}
+.content{
+  background-color: red;
+  padding: 20px;
+  height: 200px;
+  border: 2px solid black;
+}
+.aside{
+  background-color: aqua;
+  padding: 20px;
+  height: 200px;
+  border: 2px solid black;
+}
+.promo{
+  background-color: orange;
+  padding: 20px;
+  height: 250px;
+  border: 2px solid black;
+}
+.footer{
+  color: white;
+  background-color: black;
+  padding: 20px;
+  height: 200px;
+  border: 2px solid black;
 }
